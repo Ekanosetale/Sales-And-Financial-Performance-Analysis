@@ -1,5 +1,5 @@
 # Sales-And-Financial-Performance-Analysis
-
+sales010.png
 # ABOUT THE DATASET
 The dataset I used for this project is the sample dataset available on Power BI desktop canvas. It contain 16 columns and 700 rows, it contained sales record for the year 2013 and 2014. This dataset contains sales and financial information related to various products across different segments and countries. The data includes detailed information on sales performance, costs, and profits over time. Below is a description of each column:
 
