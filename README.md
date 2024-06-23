@@ -1,5 +1,6 @@
 # Sales-And-Financial-Performance-Analysis
-sales010.png
+![](sales010.png)
+![](sales09.png)
 # ABOUT THE DATASET
 The dataset I used for this project is the sample dataset available on Power BI desktop canvas. It contain 16 columns and 700 rows, it contained sales record for the year 2013 and 2014. This dataset contains sales and financial information related to various products across different segments and countries. The data includes detailed information on sales performance, costs, and profits over time. Below is a description of each column:
 
@@ -57,14 +58,17 @@ The purpose of this analysis was to gain insights into sales performance across 
 4.	Understand Seasonal Trends.
 5.	Analyze Geographic Profitability.
    
-From the initial visualization displaying sales and units sold by product, it is evident that Paseo leads with total sales reaching $33,011,143 and 338,239 units sold. Conversely, the least performing product in this category is Carretera, which sold a total of 13,815,307 units and recorded 146,846 units sold.
-
+  ![](sales01.png) 
+  
+From the initial visualization displaying sales and units sold by product above, it is evident that Paseo leads with total sales reaching $33,011,143 and 338,239 units sold. Conversely, the least performing product in this category is Carretera, which sold a total of 13,815,307 units and recorded 146,846 units sold.
+![](sales05.png)
 Analysis of sales by segment reveals that the government segment performs the best, achieving total sales of $52,504,260, representing 44% of the segment's total sales. Following closely is the small business segment with $42,427,918 in sales, accounting for 35%. In contrast, channel partners recorded the lowest performance with sales totaling $1,800,593, representing just 1.5% of the overall sales, indicating a need for improvement.
-
+![](sales06.png)
 Regarding sales by discount band, the medium discount band leads with sales totaling $38,780,430, capturing 32% of the total sales within the discount bands. The high discount band follows with $37,372,482 in sales, representing 31% of total sales. Conversely, the none discount band had the lowest performance with $7,943,600 in sales, accounting for 6.69% of the total.
-
+![](sales08.png)
 In terms of monthly sales, October emerged as the highest performing month with $22 million in sales, followed by December with $17 million.
-
+![](sales04.png)
+![](sales03.png)
 Analyzing sales, discount, profit, and margin by country, France stands out as the most profitable country with a margin of 16%. This margin is 2% higher than Canada, which led in total sales during the analyzed period.
 
 # INSIGHT
