@@ -40,18 +40,21 @@ The dataset I used for this project is the sample dataset available on Power BI 
 
 # Data Cleaning and Transformation
 The dataset was clean, so no data cleaning was required. However, I performed some necessary transformations for the analysis. First, I used the DAX formula Profit Margin = DIVIDE(SUM(financials[Profit]), SUM(financials[Sales]), 0) to calculate the profit margin, which helps understand the overall profitability of the business. Additionally, I calculated the cost of goods sold (COGS) month-over-month (MoM%) and year-over-year, as well as sales and units sold on a similar time basis.
-IF(
+
+    IF(
     ISFILTERED('financials'[Date]),
-    ERROR("Time intelligence quick measures can only be grouped or filtered by the Power BI-provided date hierarchy or primary date column."),
+    ERROR("Time intelligence quick measures can only be grouped or filtered by the Power BI-provided date hierarchy
+    or primary date column."),
     VAR __PREV_MONTH = 
         CALCULATE(
             SUM('financials'[COGS]), 
             DATEADD('financials'[Date].[Date], -1, MONTH)
         )
     RETURN DIVIDE(SUM('financials'[COGS]) - __PREV_MONTH, __PREV_MONTH)
-)
-While I prefer not to overwhelm the report with DAX formulas, similar modifications can be applied to calculate MoM% and year-over-year percentages for sales and units sold.
-
+  )
+  While I prefer not to overwhelm the report with DAX formulas, similar modifications can be applied to calculate
+  MoM% and year-over-year percentages for sales and units sold.
+  
 # Purpose Of The Analysis
 The purpose of this analysis was to gain insights into sales performance across different products, segments, discount bands, months, and countries. By examining these dimensions, the analysis aimed to:
 1.	Identify Top and Poorly Performing Products.
