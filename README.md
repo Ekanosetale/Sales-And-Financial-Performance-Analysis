@@ -69,8 +69,7 @@ From the initial visualization displaying sales and units sold by product above,
  ![](photo1.png) 
 Analysis of sales by segment reveals that the government segment performs the best, achieving total sales of $52,504,260, representing 44% of the segment's total sales. Following closely is the small business segment with $42,427,918 in sales, accounting for 35%. In contrast, channel partners recorded the lowest performance with sales totaling $1,800,593, representing just 1.5% of the overall sales, indicating a need for improvement.
 
- ![](photo5.png) 
- 
+ ![]( photo9.jpg) 
  Passeo is the highest-selling product across all segments, whereas Amarilla has the lowest sales in the Channel Partner, Enterprise, and Midmarket segments. In the Government segment, Carretera, Montana is the least-selling product.
  
  ![](photo2.png) 
