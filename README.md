@@ -67,12 +67,14 @@ The purpose of this analysis was to gain insights into sales performance across 
 From the initial visualization displaying sales and units sold by product above, it is evident that Paseo leads with total sales reaching $33,011,143 and 338,239 units sold. Conversely, the least performing product in this category is Carretera, which sold a total of 13,815,307 units and recorded 146,846 units sold.
 
  ![](photo1.png) 
+ 
 Analysis of sales by segment reveals that the government segment performs the best, achieving total sales of $52,504,260, representing 44% of the segment's total sales. Following closely is the small business segment with $42,427,918 in sales, accounting for 35%. In contrast, channel partners recorded the lowest performance with sales totaling $1,800,593, representing just 1.5% of the overall sales, indicating a need for improvement.
 
  ![]( photo9.jpg) 
- Passeo is the highest-selling product across all segments, whereas Amarilla has the lowest sales in the Channel Partner, Enterprise, and Midmarket segments. In the Government segment, Carretera, Montana is the least-selling product.
+Passeo is the highest-selling product across all segments, whereas Amarilla has the lowest sales in the Channel Partner, Enterprise, and Midmarket segments. In the Government segment, Carretera, Montana is the least-selling product.
  
  ![](photo2.png) 
+ 
 Regarding sales by discount band, the medium discount band leads with sales totaling $38,780,430, capturing 32% of the total sales within the discount bands. The high discount band follows with $37,372,482 in sales, representing 31% of total sales. Conversely, the none discount band had the lowest performance with $7,943,600 in sales, accounting for 6.69% of the total.
 
  ![](photo4.png) 
