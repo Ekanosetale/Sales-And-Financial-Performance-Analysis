@@ -38,6 +38,9 @@ The dataset I used for this project is the sample dataset available on Power BI 
 
 **Year**: The year in which the sale occurred. 
 
+# Tool Used 
+ PowerBI
+
 # Data Cleaning and Transformation
 The dataset was clean, so no data cleaning was required. However, I performed some necessary transformations for the analysis. First, I used the DAX formula Profit Margin = DIVIDE(SUM(financials[Profit]), SUM(financials[Sales]), 0) to calculate the profit margin, which helps understand the overall profitability of the business. Additionally, I calculated the cost of goods sold (COGS) month-over-month (MoM%) and year-over-year, as well as sales and units sold on a similar time basis.
 
