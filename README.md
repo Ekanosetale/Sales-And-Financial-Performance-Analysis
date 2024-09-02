@@ -38,7 +38,7 @@ The dataset I used for this project is the sample dataset available on Power BI 
 
 **Year**: The year in which the sale occurred. 
 
-# Tool Used 
+**Tool Used:**
  PowerBI
 
 # Data Cleaning and Transformation
